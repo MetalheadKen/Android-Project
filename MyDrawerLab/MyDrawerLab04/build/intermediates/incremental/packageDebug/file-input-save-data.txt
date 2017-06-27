@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Tue Dec 20 13:51:39 CST 2016
+2.base=C\:\\MyDrawerLab\\MyDrawerLab04\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\MyDrawerLab\\MyDrawerLab04\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=C\:\\MyDrawerLab\\MyDrawerLab04\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\MyDrawerLab\\MyDrawerLab04\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=C\:\\MyDrawerLab\\MyDrawerLab04\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\MyDrawerLab\\MyDrawerLab04\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+7.set=ANDROID_RESOURCE
+count=10
+0.file=C\:\\MyDrawerLab\\MyDrawerLab04\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.base=C\:\\MyDrawerLab\\MyDrawerLab04\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\MyDrawerLab\\MyDrawerLab04\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+4.set=ANDROID_RESOURCE
+6.base=C\:\\MyDrawerLab\\MyDrawerLab04\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\MyDrawerLab\\MyDrawerLab04\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+9.set=ANDROID_RESOURCE
+9.file=C\:\\MyDrawerLab\\MyDrawerLab04\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+1.set=DEX
+7.base=C\:\\MyDrawerLab\\MyDrawerLab04\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\MyDrawerLab\\MyDrawerLab04\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\MyDrawerLab\\MyDrawerLab04\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\MyDrawerLab\\MyDrawerLab04\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\MyDrawerLab\\MyDrawerLab04\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=C\:\\MyDrawerLab\\MyDrawerLab04\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+9.base=C\:\\MyDrawerLab\\MyDrawerLab04\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\MyDrawerLab\\MyDrawerLab04\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

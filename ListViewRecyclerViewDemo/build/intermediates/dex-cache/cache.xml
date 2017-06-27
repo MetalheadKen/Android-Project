@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\ListViewRecyclerViewDemo\RecyclerViewDemo1\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="D:\ListViewRecyclerViewDemo\RecyclerViewDemo1\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_680cce8650207060cf7170a84dce364b2dacaa37\classes.dex" />
+    </item>
+    <item
+        jar="D:\ListViewRecyclerViewDemo\RecyclerViewDemo1\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e4be7e5c5528cba4c44d77048226dc9b015fde60">
+        <dex dex="D:\ListViewRecyclerViewDemo\RecyclerViewDemo1\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_59cc4ef768bccd78f75f6c672af2da7279833461\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.1\3af19f153122737b372622fa6c81dd11a1c6b999\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="D:\ListViewRecyclerViewDemo\RecyclerViewDemo1\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_5ec0a404515e186b0d7d5d5f2d4d0b7068e6ff74\classes.dex" />
+    </item>
+    <item
+        jar="D:\ListViewRecyclerViewDemo\RecyclerViewDemo1\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\ListViewRecyclerViewDemo\RecyclerViewDemo1\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_f917a378c014d164b94a93ed0dc6c95e924405b0\classes.dex" />
+    </item>
+    <item
+        jar="D:\ListViewRecyclerViewDemo\RecyclerViewDemo1\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e1a8e52da6c3efb5b3be61986184b6954e7171e7">
+        <dex dex="D:\ListViewRecyclerViewDemo\RecyclerViewDemo1\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b05d7f5448d4910abc13755774b32d0fa950f491\classes.dex" />
+    </item>
+    <item
+        jar="D:\ListViewRecyclerViewDemo\RecyclerViewDemo1\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\ListViewRecyclerViewDemo\RecyclerViewDemo1\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_b3220d8e29fba6b5411864b9e21d5a754b61352e\classes.dex" />
+    </item>
+    <item
+        jar="D:\ListViewRecyclerViewDemo\RecyclerViewDemo1\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="D:\ListViewRecyclerViewDemo\RecyclerViewDemo1\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_bf7a886fb5af459b42f866a4e1654941f70acb26\classes.dex" />
+    </item>
+    <item
+        jar="D:\ListViewRecyclerViewDemo\RecyclerViewDemo1\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="D:\ListViewRecyclerViewDemo\RecyclerViewDemo1\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_ed678b3d819120eafb567f68e04152380edf182d\classes.dex" />
+    </item>
+    <item
+        jar="D:\ListViewRecyclerViewDemo\RecyclerViewDemo1\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\ListViewRecyclerViewDemo\RecyclerViewDemo1\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_44e1200823af2586b8538289ce10fd6ee460f155\classes.dex" />
+    </item>
+
+</items>

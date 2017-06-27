@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListViewDemo3-MyAdapter</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="fruits">
+        <item>柳丁 1</item>
+        <item>柳丁2</item>
+        <item>柳丁3</item>
+        <item>柳丁4</item>
+        <item>柳丁5</item>
+        <item>柳丁6</item>
+        <item>柳丁7</item>
+        <item>柳丁8</item>
+        <item>柳丁9</item>
+        <item>柳丁10</item>
+        <item>柳丁11</item>
+        <item>柳丁12</item>
+    </string-array>
+
+</resources>

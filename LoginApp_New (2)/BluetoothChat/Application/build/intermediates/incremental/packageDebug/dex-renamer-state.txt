@@ -1,0 +1,7 @@
+#Thu Nov 24 21:18:11 CST 2016
+base.0=D\:\\Android_Project\\LoginApp_New (2)\\BluetoothChat\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_025dab9c9fd185b0b562cb0151a093fc0abf0d6e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Android_Project\\LoginApp_New (2)\\BluetoothChat\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_cd87cc9903c0666d076f880ea9c5bd4bab4faf15\\classes.dex
+base.1=D\:\\Android_Project\\LoginApp_New (2)\\BluetoothChat\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_cd87cc9903c0666d076f880ea9c5bd4bab4faf15
+file.0=D\:\\Android_Project\\LoginApp_New (2)\\BluetoothChat\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_025dab9c9fd185b0b562cb0151a093fc0abf0d6e\\classes.dex

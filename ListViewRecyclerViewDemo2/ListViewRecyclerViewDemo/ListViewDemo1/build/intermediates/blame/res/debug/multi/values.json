@@ -1,0 +1,165 @@
+[
+    {
+        "outputFile": "E:\\ListViewRecyclerViewDemo\\ListViewRecyclerViewDemo\\ListViewDemo1\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 15,
+                    "endColumn": 19,
+                    "endOffset": 407
+                },
+                "from": {
+                    "file": "E:\\ListViewRecyclerViewDemo\\ListViewRecyclerViewDemo\\ListViewDemo1\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 228,
+                        "endLine": 20,
+                        "endColumn": 19,
+                        "endOffset": 580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 412,
+                    "endColumn": 57,
+                    "endOffset": 465
+                },
+                "from": {
+                    "file": "E:\\ListViewRecyclerViewDemo\\ListViewRecyclerViewDemo\\ListViewDemo1\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 470,
+                    "endColumn": 55,
+                    "endOffset": 521
+                },
+                "from": {
+                    "file": "E:\\ListViewRecyclerViewDemo\\ListViewRecyclerViewDemo\\ListViewDemo1\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 526,
+                    "endColumn": 52,
+                    "endOffset": 574
+                },
+                "from": {
+                    "file": "E:\\ListViewRecyclerViewDemo\\ListViewRecyclerViewDemo\\ListViewDemo1\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 121,
+                        "endColumn": 52,
+                        "endOffset": 169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 579,
+                    "endColumn": 64,
+                    "endOffset": 639
+                },
+                "from": {
+                    "file": "E:\\ListViewRecyclerViewDemo\\ListViewRecyclerViewDemo\\ListViewDemo1\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 64,
+                        "endOffset": 116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 644,
+                    "endColumn": 52,
+                    "endOffset": 692
+                },
+                "from": {
+                    "file": "E:\\ListViewRecyclerViewDemo\\ListViewRecyclerViewDemo\\ListViewDemo1\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 52,
+                        "endOffset": 222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 697,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 983
+                },
+                "from": {
+                    "file": "E:\\ListViewRecyclerViewDemo\\ListViewRecyclerViewDemo\\ListViewDemo1\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 988,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1143
+                },
+                "from": {
+                    "file": "E:\\ListViewRecyclerViewDemo\\ListViewRecyclerViewDemo\\ListViewDemo1\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

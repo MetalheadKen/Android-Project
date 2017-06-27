@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingBottom="8dp"
+    android:paddingTop="8dp" >
+
+    <ImageView
+        android:id="@+id/beacon_icon"
+        android:layout_width="60dp"
+        android:layout_height="80dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginRight="10dp"
+        android:padding="10dp"
+        android:src="@drawable/selector_beacon_icon" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tvDeviceName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Device Name"
+            android:textColor="#00C0C0"
+            style="@android:style/TextAppearance.Small" />
+        <TextView
+            android:id="@+id/tvUUID"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="UUUUUUUU-IIII-DDDD-XXXX-YYYYZZZZ0000"
+            android:textColor="#00C0C0"
+            style="@android:style/TextAppearance.Small" />
+        <TextView
+            android:id="@+id/tvMacAddress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mac Address"
+            style="@android:style/TextAppearance.Small" />
+        <TextView
+            android:id="@+id/tvLastedDiscoveredTime"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Lasted Discovered Time"
+            style="@android:style/TextAppearance.Small" />
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/tvMajor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@android:style/TextAppearance.Small"
+                android:text="Ma" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@android:style/TextAppearance.Small"
+                android:text="-" />
+
+            <TextView
+                android:id="@+id/tvMinor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@android:style/TextAppearance.Small"
+                android:text="Mi" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@android:style/TextAppearance.Small"
+                android:text="; " />
+
+            <TextView
+                android:id="@+id/tvTxPower"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@android:style/TextAppearance.Small"
+                android:text="TxPr" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@android:style/TextAppearance.Small"
+                android:text="; " />
+
+            <TextView
+                android:id="@+id/tvRSSI"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@android:style/TextAppearance.Small"
+                android:text="RSSI" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@android:style/TextAppearance.Small"
+                android:text="; " />
+
+            <TextView
+                android:id="@+id/tvDistance"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@android:style/TextAppearance.Small"
+                android:text="Dist" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+            <TextView
+                android:id="@+id/tvRegionName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@android:style/TextAppearance.Small"
+                android:text="RegionName" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

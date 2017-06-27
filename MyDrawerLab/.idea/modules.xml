@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BlockGameLab01/BlockGameLab01.iml" filepath="$PROJECT_DIR$/BlockGameLab01/BlockGameLab01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BlockGameLab02/BlockGameLab02.iml" filepath="$PROJECT_DIR$/BlockGameLab02/BlockGameLab02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BlockGameLab03/BlockGameLab03.iml" filepath="$PROJECT_DIR$/BlockGameLab03/BlockGameLab03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyDrawerLab.iml" filepath="$PROJECT_DIR$/MyDrawerLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyDrawerLab01/MyDrawerLab01.iml" filepath="$PROJECT_DIR$/MyDrawerLab01/MyDrawerLab01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyDrawerLab01OK/MyDrawerLab01OK.iml" filepath="$PROJECT_DIR$/MyDrawerLab01OK/MyDrawerLab01OK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyDrawerLab02/MyDrawerLab02.iml" filepath="$PROJECT_DIR$/MyDrawerLab02/MyDrawerLab02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyDrawerLab02OK/MyDrawerLab02OK.iml" filepath="$PROJECT_DIR$/MyDrawerLab02OK/MyDrawerLab02OK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyDrawerLab03/MyDrawerLab03.iml" filepath="$PROJECT_DIR$/MyDrawerLab03/MyDrawerLab03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyDrawerLab03OK/MyDrawerLab03OK.iml" filepath="$PROJECT_DIR$/MyDrawerLab03OK/MyDrawerLab03OK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyDrawerLab04/MyDrawerLab04.iml" filepath="$PROJECT_DIR$/MyDrawerLab04/MyDrawerLab04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyDrawerLab04OK/MyDrawerLab04OK.iml" filepath="$PROJECT_DIR$/MyDrawerLab04OK/MyDrawerLab04OK.iml" />
+    </modules>
+  </component>
+</project>

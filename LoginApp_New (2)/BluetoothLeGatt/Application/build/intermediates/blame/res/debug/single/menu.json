@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android_Project\\LoginApp_New (2)\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "D:\\Android_Project\\LoginApp_New (2)\\BluetoothLeGatt\\Application\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "D:\\Android_Project\\LoginApp_New (2)\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Android_Project\\LoginApp_New (2)\\BluetoothLeGatt\\Application\\src\\main\\res\\menu\\main.xml"
+    }
+]

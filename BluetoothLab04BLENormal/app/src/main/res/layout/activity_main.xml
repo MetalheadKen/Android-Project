@@ -1,0 +1,73 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:weightSum="1">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:gravity="center_horizontal"
+        android:text="@string/title"
+        android:textSize="24dp"
+        android:layout_gravity="center_horizontal" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+        <Button
+            android:id="@+id/btnDoScan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView1"
+            android:text="Scan"
+            android:textSize="16dp" />
+
+        <Button
+            android:id="@+id/btnStopScan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/lvBtListing"
+            android:clickable="false"
+            android:text="Stop Scan"
+            android:textSize="16dp" />
+
+        <Button
+            android:text="地圖導航"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnMap"
+            android:layout_weight="0.13" />
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/lvBtListing"
+        android:layout_width="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/btnDoScan"
+        android:layout_weight="0.78"
+        android:layout_height="88dp">
+
+    </ListView>
+
+    <TextView
+        android:id="@+id/tvTriangle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="目前定位座標為：" />
+
+</LinearLayout>

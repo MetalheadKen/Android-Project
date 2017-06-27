@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android_Project\LoginApp_New (2)\BluetoothChat\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0fe858a57d1e3e8a7d56196daf22602e2f12edce">
+        <dex dex="D:\Android_Project\LoginApp_New (2)\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_025dab9c9fd185b0b562cb0151a093fc0abf0d6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Project\LoginApp_New (2)\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="D:\Android_Project\LoginApp_New (2)\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_9d0d9ec68828d0ebe3071a6d70d276979ba0b949\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="D:\Android_Project\LoginApp_New (2)\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_9a7253f6fd6f74f87944ad0a09f68df4ffe195c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Project\LoginApp_New (2)\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="D:\Android_Project\LoginApp_New (2)\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.1.1_cded2ce127b1c923fff27d1358a94fb2e456af29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Project\LoginApp_New (2)\BluetoothChat\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b24fbe13f6b63306dbc99d5a3cc463a5ed883f73">
+        <dex dex="D:\Android_Project\LoginApp_New (2)\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cd87cc9903c0666d076f880ea9c5bd4bab4faf15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Project\LoginApp_New (2)\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="D:\Android_Project\LoginApp_New (2)\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_888c64c630f0fbddb3a504237fe9e470aa92e6f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Project\LoginApp_New (2)\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="D:\Android_Project\LoginApp_New (2)\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_0a738bb85f5ff22d6a77942802c402f8187fad18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Project\LoginApp_New (2)\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="D:\Android_Project\LoginApp_New (2)\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_9aeb6db60bb11f6284b06c3a14b47dc75e811609\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Project\LoginApp_New (2)\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="D:\Android_Project\LoginApp_New (2)\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_6b25db23dd1ce61d52c30e280beac16d79c47db6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Project\LoginApp_New (2)\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8a5380ddd58f4f8946ddade4c64dd77de4a836d5">
+        <dex dex="D:\Android_Project\LoginApp_New (2)\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-gridlayout-v7-24.1.1_cb2ea62a5a5cf089d9a260332be7d20e1afeff0d\classes.dex" />
+    </item>
+
+</items>

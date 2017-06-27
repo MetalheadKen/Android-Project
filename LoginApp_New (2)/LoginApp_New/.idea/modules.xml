@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LoginApp_New.iml" filepath="$PROJECT_DIR$/LoginApp_New.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loginapp600sp/loginapp600sp.iml" filepath="$PROJECT_DIR$/loginapp600sp/loginapp600sp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loginapp601file/loginapp601file.iml" filepath="$PROJECT_DIR$/loginapp601file/loginapp601file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loginapp700sqlite01/loginapp700sqlite01.iml" filepath="$PROJECT_DIR$/loginapp700sqlite01/loginapp700sqlite01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loginapp701sqlite02/loginapp701sqlite02.iml" filepath="$PROJECT_DIR$/loginapp701sqlite02/loginapp701sqlite02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loginapp702sqlite03/loginapp702sqlite03.iml" filepath="$PROJECT_DIR$/loginapp702sqlite03/loginapp702sqlite03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loginapp800remote/loginapp800remote.iml" filepath="$PROJECT_DIR$/loginapp800remote/loginapp800remote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loginapp801json/loginapp801json.iml" filepath="$PROJECT_DIR$/loginapp801json/loginapp801json.iml" />
+    </modules>
+  </component>
+</project>

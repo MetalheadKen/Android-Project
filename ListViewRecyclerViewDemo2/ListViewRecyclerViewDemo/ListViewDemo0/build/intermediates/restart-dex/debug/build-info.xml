@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="24"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="68218821453202"
+    token="-192493399076990772"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="504" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="135" />
+    <task
+        name="verifier"
+        duration="14" />
+
+    <artifact
+        location="E:\ListViewRecyclerViewDemo\ListViewRecyclerViewDemo\ListViewDemo0\build\outputs\apk\ListViewDemo0-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="68218821453202"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="E:\ListViewRecyclerViewDemo\ListViewRecyclerViewDemo\ListViewDemo0\build\outputs\apk\ListViewDemo0-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

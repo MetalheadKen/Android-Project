@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Wed Jan 04 23:09:54 CST 2017
+2.base=D\:\\Android_Project\\MyDrawerLab\\BlockGameLab03\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\Android_Project\\MyDrawerLab\\BlockGameLab03\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\Android_Project\\MyDrawerLab\\BlockGameLab03\\build\\intermediates\\res\\resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=D\:\\Android_Project\\MyDrawerLab\\BlockGameLab03\\build\\intermediates\\res\\resources-debug.ap_
+count=6
+0.file=D\:\\Android_Project\\MyDrawerLab\\BlockGameLab03\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main.xml
+5.base=D\:\\Android_Project\\MyDrawerLab\\BlockGameLab03\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=D\:\\Android_Project\\MyDrawerLab\\BlockGameLab03\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+1.set=ANDROID_RESOURCE
+2.file=D\:\\Android_Project\\MyDrawerLab\\BlockGameLab03\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.base=D\:\\Android_Project\\MyDrawerLab\\BlockGameLab03\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\Android_Project\\MyDrawerLab\\BlockGameLab03\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=D\:\\Android_Project\\MyDrawerLab\\BlockGameLab03\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\Android_Project\\MyDrawerLab\\BlockGameLab03\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+0.set=ANDROID_RESOURCE

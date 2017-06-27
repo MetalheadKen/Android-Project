@@ -1,0 +1,1 @@
+include ':loginapp600sp', ':loginapp601file', ':loginapp700sqlite01', ':loginapp701sqlite02', ':loginapp702sqlite03', ':loginapp800remote', ':loginapp801json'

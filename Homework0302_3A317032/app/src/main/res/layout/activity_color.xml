@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HorizontalScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="6sp"
+    android:spacing="3sp"
+    tools:context="tw.edu.ncut.csie.homework0302_3a317032.ColorActivity">
+
+    <LinearLayout
+        android:id="@+id/color_gallery"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal" />
+
+</HorizontalScrollView>

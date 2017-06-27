@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="place_array" >
+        <item>E401   化材系 儀器分析實驗教室</item>
+        <item>E403   化材系 器材藥品室</item>
+        <item>E404   化材系 階梯教室</item>
+        <item>E405   化材系 主機房</item>
+        <item>E406   化材系 電腦教室</item>
+        <item>E407   化材系 主機房</item>
+        <item>E408   化材系 專題研討室</item>
+        <item>E409   化材系 研究教室</item>
+        <item>E410   化材系 研究教室</item>
+        <item>E411   化材系 研究教室</item>
+        <item>E412   化材系 研究教室</item>
+        <item>E413   化材系 研究教室</item>
+        <item>E414   化材系 研究教室</item>
+        <item>E415   化材系 研究教室</item>
+        <item>E416   化材系 研究教室</item>
+        <item>E417-1 電化教室(二)</item>
+        <item>E417-2 電化教室(三)</item>
+        <item>E418   資工系 數位內實驗室</item>
+        <item>E419-1 資工系 數位內容研究室</item>
+        <item>E419-2 資工系 多媒體應用研究室</item>
+        <item>E419-3 資工系 多媒體應用研究室</item>
+        <item>E420   資工系 多媒體應用實驗室</item>
+        <item>E421   資工系 研究教室</item>
+        <item>E422   資工系 研究教室</item>
+        <item>E423   資工系 研究教室</item>
+        <item>E424   資工系 研究教室</item>
+        <item>E425   資工系 研究教室</item>
+        <item>E426   資工系 研究教室</item>
+        <item>E427   資工系 研究教室</item>
+        <item>E428   資工系 研究教室</item>
+        <item>E429   資工系 研究教室</item>
+        <item>E430   電子系 研究教室</item>
+        <item>E431   電子系 網路與遊戲實驗室</item>
+        <item>E432   電子系 專題研究教室</item>
+        <item>E433   電子系 老師研究室</item>
+        <item>E434   電子系 老師研究室</item>
+        <item>E434-1 電子系 老師研究室</item>
+        <item>E435   電子系 老師研究室</item>
+        <item>E436   創新發明教育學會</item>
+        <item>E437   資工系 多功能研討室</item>
+        <item>E439   資工系 學生研討室</item>
+        <item>E440   電子系學會辦公室</item>
+        <item>E440-1 電子系 演講廳</item>
+        <item>E441   電子系 老師研究室</item>
+        <item>E442   資工系</item>
+        <item>E443   資工系 系辦公室及主任辦公室</item>
+        <item>E443-1 資工系 多功能研討室</item>
+        <item>E444   資工系 學生研討室</item>
+        <item>E445   資工系 晶片設計實驗室</item>
+        <item>E446   資工系 老師研究室</item>
+        <item>E462   女廁</item>
+        <item>E463   男廁</item>
+        <item>E472   男廁</item>
+        <item>E473   女廁</item>
+    </array>
+
+
+</resources>

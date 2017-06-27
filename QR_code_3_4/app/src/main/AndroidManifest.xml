@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="tw.edu.ncut.csie.qr_code" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+
+    <application
+        android:allowBackup="true"
+        android:label="EasyShopping"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity2"
+            android:screenOrientation="landscape" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MaturityActivity"
+            android:label="商品挑選小幫手"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="QR_Code"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".insert"
+            android:label="會員註冊"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".RoutePlanningActivity"
+            android:label="地圖導航"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".IBeaconActivity"
+            android:label="IBeacon"
+            android:screenOrientation="landscape" >
+        </activity>
+    </application>
+
+</manifest>

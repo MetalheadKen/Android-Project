@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">Receiver SMS</string>
+  <string name="title1">Waiting SMS</string>
+  <string name="title2">Receiver SMS</string>
+
+  <string name="hello_world">Hello world!</string>
+  <string name="action_settings">Settings</string>
+</resources>

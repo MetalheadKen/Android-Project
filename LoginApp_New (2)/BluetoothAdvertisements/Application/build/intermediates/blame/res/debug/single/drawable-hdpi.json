@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Android_Project\\LoginApp_New (2)\\BluetoothAdvertisements\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_refresh.png",
+        "source": "D:\\Android_Project\\LoginApp_New (2)\\BluetoothAdvertisements\\Application\\src\\main\\res\\drawable-hdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "D:\\Android_Project\\LoginApp_New (2)\\BluetoothAdvertisements\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\Android_Project\\LoginApp_New (2)\\BluetoothAdvertisements\\Application\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android_Project\\LoginApp_New (2)\\BluetoothAdvertisements\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tile.9.png",
+        "source": "D:\\Android_Project\\LoginApp_New (2)\\BluetoothAdvertisements\\Application\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    }
+]

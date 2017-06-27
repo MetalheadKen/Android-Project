@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Android_Project\\ListViewRecyclerViewDemo\\ListViewDemo2\\build\\intermediates\\res\\merged\\debug\\layout\\myitem2.xml",
+        "source": "D:\\Android_Project\\ListViewRecyclerViewDemo\\ListViewDemo2\\src\\main\\res\\layout\\myitem2.xml"
+    },
+    {
+        "merged": "D:\\Android_Project\\ListViewRecyclerViewDemo\\ListViewDemo2\\build\\intermediates\\res\\merged\\debug\\layout\\myitem.xml",
+        "source": "D:\\Android_Project\\ListViewRecyclerViewDemo\\ListViewDemo2\\src\\main\\res\\layout\\myitem.xml"
+    },
+    {
+        "merged": "D:\\Android_Project\\ListViewRecyclerViewDemo\\ListViewDemo2\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android_Project\\ListViewRecyclerViewDemo\\ListViewDemo2\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

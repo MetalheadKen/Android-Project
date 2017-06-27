@@ -1,0 +1,7 @@
+#Fri Jan 06 14:41:02 CST 2017
+base.0=E\:\\ListViewRecyclerViewDemo\\ListViewRecyclerViewDemo\\ListViewDemo0\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_eb3f17b606a5fba83cf25057db9160c50c431c77
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\ListViewRecyclerViewDemo\\ListViewRecyclerViewDemo\\ListViewDemo0\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_16d6963ceff9de15d50ac45ac7832335b2ce5f30\\classes.dex
+base.1=E\:\\ListViewRecyclerViewDemo\\ListViewRecyclerViewDemo\\ListViewDemo0\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_16d6963ceff9de15d50ac45ac7832335b2ce5f30
+file.0=E\:\\ListViewRecyclerViewDemo\\ListViewRecyclerViewDemo\\ListViewDemo0\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_eb3f17b606a5fba83cf25057db9160c50c431c77\\classes.dex

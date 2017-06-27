@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="21"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="14446666378147"
+    token="2340176211135064365"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="406" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="235" />
+    <task
+        name="verifier"
+        duration="89" />
+
+    <artifact
+        location="D:\Android_Project\LoginApp_New (2)\BluetoothChat\Application\build\outputs\apk\Application-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="14446666378147"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\Android_Project\LoginApp_New (2)\BluetoothChat\Application\build\outputs\apk\Application-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,32 @@
+Ex.0100 匯入專案 MyDrawerLab01
+==> [File] --> [import...] --> [Existing Projects into Workspace]
+          接著點擊 archive file 右邊的[Browse] 按鈕，選擇  MyDrawerLab01.zip 
+
+Ex.0101 完成客製化元件設計 class GamePanelView extends View
+   1. 新增類別: GamePanelView , 並選擇 Superclass 為 View.
+   2. 覆寫必要方法: onDraw(...) {   }, onMeasure(...) {   }
+     2.1 在 onDraw(...) 加入必要的繪圖指令.
+        Paint gPen = new Paint();
+		gPen.setColor(Color.GREEN);
+		canvas.drawRect( 100, 100, 200, 200, gPen);
+	 2.2 在 onMeasure(...) 加入修正寬度與高度的指令(非必要)
+	    // 最後，修正View大小為所需要的寬度、高度.
+	    setMeasuredDimension(width, height);
+   3. 加入至少一個建構子: public GamePanelView(...) {    }
+   
+Ex.0102 在 /res/layout/activity_main.xml 加入自訂元件的使用(一定要全名)
+       <tw.idv.jameschen.mydrawerlab01.GamePanelView 
+	       android:layout_width="fill_parent"
+           android:layout_height="fill_parent"
+        />
+	
+Ex.0103 測試是否正常執行、並顯示正確圖案?
+			
+Ex.0104 在 MainActivity.onCreate(...) 內部，改寫 setContentView(...)
+   1. 註解掉原有 setContentView(...) 指令.
+   2. 加入以下指令:
+      setContentView( new GamePanelView(this, null) );
+
+Ex.0105 測試是否正常執行、並顯示正確圖案?
+
+     

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fruits">
+        <item>橘子 1</item>
+        <item>橘子2</item>
+        <item>橘子3</item>
+        <item>橘子4</item>
+        <item>橘子5</item>
+        <item>橘子6</item>
+        <item>橘子7</item>
+        <item>橘子8</item>
+        <item>橘子9</item>
+        <item>橘子10</item>
+        <item>橘子11</item>
+        <item>橘子12</item>
+    </string-array>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">ListViewDemo0-字串陣列資源(res)</string>
+    <string name="hello_world">Hello world!</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

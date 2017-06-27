@@ -1,0 +1,7 @@
+#Thu Nov 24 20:43:56 CST 2016
+base.0=D\:\\Android_Project\\LoginApp_New (2)\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1a09d77127539baa599259b9713ae2b39b8b1d54
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Android_Project\\LoginApp_New (2)\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_523074832f6be11de147a15f5859344acf097634\\classes.dex
+base.1=D\:\\Android_Project\\LoginApp_New (2)\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_523074832f6be11de147a15f5859344acf097634
+file.0=D\:\\Android_Project\\LoginApp_New (2)\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1a09d77127539baa599259b9713ae2b39b8b1d54\\classes.dex

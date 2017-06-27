@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Android_Project\\BluetoothLab03BLE\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_beacon.xml",
+        "source": "D:\\Android_Project\\BluetoothLab03BLE\\app\\src\\main\\res\\drawable\\background_beacon.xml"
+    },
+    {
+        "merged": "D:\\Android_Project\\BluetoothLab03BLE\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beacon_gray_checked.png",
+        "source": "D:\\Android_Project\\BluetoothLab03BLE\\app\\src\\main\\res\\drawable\\beacon_gray_checked.png"
+    },
+    {
+        "merged": "D:\\Android_Project\\BluetoothLab03BLE\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_rssi.png",
+        "source": "D:\\Android_Project\\BluetoothLab03BLE\\app\\src\\main\\res\\drawable\\bt_rssi.png"
+    },
+    {
+        "merged": "D:\\Android_Project\\BluetoothLab03BLE\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beacon1.png",
+        "source": "D:\\Android_Project\\BluetoothLab03BLE\\app\\src\\main\\res\\drawable\\beacon1.png"
+    },
+    {
+        "merged": "D:\\Android_Project\\BluetoothLab03BLE\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beacon_gray.png",
+        "source": "D:\\Android_Project\\BluetoothLab03BLE\\app\\src\\main\\res\\drawable\\beacon_gray.png"
+    },
+    {
+        "merged": "D:\\Android_Project\\BluetoothLab03BLE\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_beacon_icon.xml",
+        "source": "D:\\Android_Project\\BluetoothLab03BLE\\app\\src\\main\\res\\drawable\\selector_beacon_icon.xml"
+    }
+]

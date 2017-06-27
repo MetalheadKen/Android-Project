@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android_Project\BluetoothLab03BLE\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="83ea043326883654eb66a28ce6f1de0bdab17633">
+        <dex dex="D:\Android_Project\BluetoothLab03BLE\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_af560ddcab25a5d8c90bb714939741154ede1399\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Android_Project\BluetoothLab03BLE\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_0242e03cd59fe7866a66bd4a95b67553c3e970c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Project\BluetoothLab03BLE\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="37e7fa7bb43331a539f36c1319c40bd216fa7db9">
+        <dex dex="D:\Android_Project\BluetoothLab03BLE\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9256e5635113db105719f249e5cb0008eb2e6abb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Project\BluetoothLab03BLE\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Android_Project\BluetoothLab03BLE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_f189f8390d97a4d3356eafb23234960c4c48811e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Project\BluetoothLab03BLE\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Android_Project\BluetoothLab03BLE\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_4becd6a34584ececa0c27cb40a25e85e1c549fe7\classes.dex" />
+    </item>
+
+</items>

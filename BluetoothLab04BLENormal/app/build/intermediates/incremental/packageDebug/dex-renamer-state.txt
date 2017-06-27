@@ -1,0 +1,7 @@
+#Fri Jun 23 16:53:23 CST 2017
+base.0=D\:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_710b0381895aa4a7e93254365c2be35f3ab3765c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_75e84d379611234642b96a684ee1e66165c521cb\\classes.dex
+base.1=D\:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_75e84d379611234642b96a684ee1e66165c521cb
+file.0=D\:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_710b0381895aa4a7e93254365c2be35f3ab3765c\\classes.dex

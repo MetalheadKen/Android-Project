@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_maxCost"
+        android:title="最大預算"
+        android:orderInCategory="50" />
+    <item android:id="@+id/menu_onSale"
+        android:title="特價商品"
+        android:orderInCategory="100" />
+    <item android:id="@+id/menu_maturity"
+        android:title="商品挑選小幫手"
+        android:orderInCategory="200" />
+    <item android:id="@+id/menu_map"
+        android:title="地圖導航"
+        android:orderInCategory="300" />
+    <item android:id="@+id/menu_logout"
+        android:title="登出"
+        android:orderInCategory="400" />
+</menu>

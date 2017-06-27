@@ -1,0 +1,7 @@
+#Wed Jan 04 23:19:15 CST 2017
+base.0=D\:\\Android_Project\\MyDrawerLab\\MyDrawerLab03OK\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ee59d08b736164dc169543388fd5961fa6a2f222
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Android_Project\\MyDrawerLab\\MyDrawerLab03OK\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2575af02bf543bb55d2a550b8b7f566f002b7e29\\classes.dex
+base.1=D\:\\Android_Project\\MyDrawerLab\\MyDrawerLab03OK\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2575af02bf543bb55d2a550b8b7f566f002b7e29
+file.0=D\:\\Android_Project\\MyDrawerLab\\MyDrawerLab03OK\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ee59d08b736164dc169543388fd5961fa6a2f222\\classes.dex

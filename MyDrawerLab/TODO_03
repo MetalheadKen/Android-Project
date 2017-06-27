@@ -1,0 +1,49 @@
+Ex.0300 匯入專案 MyDrawerLab03
+==> [File] --> [import...] --> [Existing Projects into Workspace]
+          接著點擊 archive file 右邊的[Browse] 按鈕，選擇  MyDrawerLab03.zip 
+
+Ex.0301 完成客製化元件設計 class GamePanelSurfaceView extends SurfaceView
+   1. 新增類別: GamePanelSurfaceView , 並選擇 Superclass 為 SurfaceView.
+   2. 加入至少一個建構子, 並加入 Callback 註冊: 
+   	public GamePanelSurfaceView(Context context, AttributeSet attrs) {
+		super(context, attrs);
+		// 註冊處理程序
+		this.getHolder().addCallback(this);
+	}
+   3. 讓類別 GamePanelSurfaceView 實作 Callback 必要方法
+      surfaceCreated(...), surfaceChanged(...), surfaceDestroyed(...)
+     3.1 在 surfaceCreated(...) 加入必要的繪圖指令.
+		// 1. 繪圖前，必須先鎖定Canvas. 卻確認是否完成鎖定?
+        Canvas canvas = holder.lockCanvas();	
+		// 2. 繪圖處理動作: 利用 Canvas 元件進行畫面內容繪製.
+		drawCanvas(canvas);
+		// 3. 繪圖完成後，必須釋放鎖定.
+		holder.unlockCanvasAndPost(canvas);
+		
+	 3.2 完成繪圖模組
+	    private void drawCanvas(Canvas canvas) {
+		   Paint pen = new Paint();
+		   pen.setColor(Color.BLUE);
+		   canvas.drawCircle( 150, 150, 100, pen);
+		   pen.setColor(Color.RED);
+		   canvas.drawCircle( 200, 300, 50, pen);
+	    }
+	 3.3 必要時，可在 surfaceChanged(...) 加入視窗改變時的處理
+	 3.4 必要時，可在 surfaceDestroyed(...) 加入善後處理
+	    
+Ex.0302 在 /res/layout/activity_main.xml 加入自訂元件的使用(一定要全名)
+       <tw.idv.jameschen.mydrawerlab03.GamePanelSurfaceView 
+	       android:layout_width="fill_parent"
+           android:layout_height="fill_parent"
+        />
+	
+Ex.0303 測試是否正常執行、並顯示正確圖案?
+			
+Ex.0304 在 MainActivity.onCreate(...) 內部，改寫 setContentView(...)
+   1. 註解掉原有 setContentView(...) 指令.
+   2. 加入以下指令:
+      setContentView( new GamePanelSurfaceView(this, null) );
+
+Ex.0305 測試是否正常執行、並顯示正確圖案?
+
+     

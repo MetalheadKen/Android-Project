@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_record"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="tw.edu.ncut.csie.qr_code.recordActivity">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+
+        <Spinner
+            android:layout_width="279dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/sp_year"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true" />
+
+        <Spinner
+            android:layout_height="wrap_content"
+            android:id="@+id/sp_month"
+            android:layout_width="match_parent" />
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/lv_main"
+        android:scrollbars="horizontal"
+        tools:scrollbars="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="37dp"
+        android:gravity="center_vertical|center_horizontal"
+        android:layout_gravity="center"
+        android:layout_alignParentStart="true"
+        tools:gravity="center"
+        android:textAlignment="center" />
+
+</RelativeLayout>

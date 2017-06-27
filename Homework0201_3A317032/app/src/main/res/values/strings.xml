@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">XAXB 網路連接遊戲</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title">XAXB Game Client</string>
+    <string name="server">主機:</string>
+    <string name="port">埠號:</string>
+    <string name="connect">連線</string>
+    <string name="disconnect">斷線</string>
+    <string name="send">我猜</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C0C0C0"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="選課紀錄"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    <!-- 課程清單 : RecyclerView -->
+    <android.support.v7.widget.RecyclerView
+            android:id="@+id/rvItemList"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbarAlwaysDrawHorizontalTrack="true"
+            android:scrollbarStyle="outsideInset"
+            android:scrollbars="vertical" />
+
+</LinearLayout>

@@ -1,0 +1,7 @@
+#Thu Nov 24 21:06:13 CST 2016
+base.0=D\:\\Android_Project\\LoginApp_New (2)\\BluetoothAdvertisements\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_68aa0dead061f959c82364fb9dc99ea5a94e3547
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Android_Project\\LoginApp_New (2)\\BluetoothAdvertisements\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0a7133706fee3c11647fbcedf8614572047fdde6\\classes.dex
+base.1=D\:\\Android_Project\\LoginApp_New (2)\\BluetoothAdvertisements\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0a7133706fee3c11647fbcedf8614572047fdde6
+file.0=D\:\\Android_Project\\LoginApp_New (2)\\BluetoothAdvertisements\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_68aa0dead061f959c82364fb9dc99ea5a94e3547\\classes.dex

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android_Project\LoginApp_New (2)\BluetoothLeGatt\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c624450c0c117e06d52d1a1469113c06442cdefd">
+        <dex dex="D:\Android_Project\LoginApp_New (2)\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_523074832f6be11de147a15f5859344acf097634\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Project\LoginApp_New (2)\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="D:\Android_Project\LoginApp_New (2)\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_a62439500a677d31c8c71110464548c03ca86a09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Project\LoginApp_New (2)\BluetoothLeGatt\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea534de5b2a5741ed5effdc39d26bb5b161ae9af">
+        <dex dex="D:\Android_Project\LoginApp_New (2)\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1a09d77127539baa599259b9713ae2b39b8b1d54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Project\LoginApp_New (2)\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="D:\Android_Project\LoginApp_New (2)\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_92cc651c1295c0b562016a3deed4740da05aebc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Project\LoginApp_New (2)\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="D:\Android_Project\LoginApp_New (2)\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_0b96e93dbcfd05099b1d8678be17aeab61057cb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Project\LoginApp_New (2)\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="D:\Android_Project\LoginApp_New (2)\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_a17099291e421b66dd55c607b3cb7566413b26f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="D:\Android_Project\LoginApp_New (2)\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_9a7253f6fd6f74f87944ad0a09f68df4ffe195c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Project\LoginApp_New (2)\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
+        <dex dex="D:\Android_Project\LoginApp_New (2)\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-24.1.1_7fcd82f4fe1ae89b6ef0f9d3c6780735995506a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Project\LoginApp_New (2)\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
+        <dex dex="D:\Android_Project\LoginApp_New (2)\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_3ba9cb0a9b8c7dc194496c62f1692d7d5ccb2f01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Project\LoginApp_New (2)\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="D:\Android_Project\LoginApp_New (2)\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.1.1_c02168403c33498c8c0c85960e7a5944e9f86c61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Project\LoginApp_New (2)\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="D:\Android_Project\LoginApp_New (2)\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_09d9d1c77b3de2f66636dfb0b753a60af74cd35a\classes.dex" />
+    </item>
+
+</items>

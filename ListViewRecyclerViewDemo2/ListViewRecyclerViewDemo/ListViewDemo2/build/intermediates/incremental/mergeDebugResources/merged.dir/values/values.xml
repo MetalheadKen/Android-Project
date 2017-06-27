@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fruits">
+    <item>蘋果 1</item>
+    <item>蘋果2</item>
+    <item>蘋果3</item>
+    <item>蘋果4</item>
+    <item>蘋果5</item>
+    <item>蘋果6</item>
+    <item>蘋果7</item>
+    <item>蘋果8</item>
+    <item>蘋果9</item>
+    <item>蘋果10</item>
+    <item>蘋果11</item>
+    <item>蘋果12</item>
+    </string-array>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">ListViewDemo2-SimpleAdapter</string>
+    <string name="hello_world">Hello world!</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

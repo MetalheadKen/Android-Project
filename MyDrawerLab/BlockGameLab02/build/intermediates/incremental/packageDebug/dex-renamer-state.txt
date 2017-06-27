@@ -1,0 +1,7 @@
+#Wed Jan 04 23:10:25 CST 2017
+base.0=D\:\\Android_Project\\MyDrawerLab\\BlockGameLab02\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f059789188720417c7ba44bc40ccc6e3ee13958c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Android_Project\\MyDrawerLab\\BlockGameLab02\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7f2e9411f0e96e25a6572ac97bc0aa2ff3e9c37c\\classes.dex
+base.1=D\:\\Android_Project\\MyDrawerLab\\BlockGameLab02\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7f2e9411f0e96e25a6572ac97bc0aa2ff3e9c37c
+file.0=D\:\\Android_Project\\MyDrawerLab\\BlockGameLab02\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f059789188720417c7ba44bc40ccc6e3ee13958c\\classes.dex

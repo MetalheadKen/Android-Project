@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">QR_code</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string-array name="drawer_menu">
+        <item>蘋果</item>
+        <item>香蕉</item>
+        <item>奇異果</item>
+        <item>芭樂</item>
+        <item>橘子</item>
+        <item>葡萄</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string name="app_name2">Login_EasyShop</string>
+    <string name="email">電子信箱：</string>
+    <string name="password">密碼：</string>
+    <string name="login">登入</string>
+    <string name="insert">註冊</string>
+
+    <string-array name="years">
+        <item>2017</item>
+        <item>2016</item>
+        <item>2015</item>
+    </string-array>
+    <string-array name="month">
+        <item>1月</item>
+        <item>2月</item>
+        <item>3月</item>
+        <item>4月</item>
+        <item>5月</item>
+        <item>6月</item>
+        <item>7月</item>
+        <item>8月</item>
+        <item>9月</item>
+        <item>10月</item>
+        <item>11月</item>
+        <item>12月</item>
+    </string-array>
+</resources>

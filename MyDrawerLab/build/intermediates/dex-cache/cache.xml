@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android_Project\MyDrawerLab\MyDrawerLab03OK\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8f403034cf6005a99934af4cee0b6b1f84011a80">
+        <dex dex="D:\Android_Project\MyDrawerLab\MyDrawerLab03OK\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2575af02bf543bb55d2a550b8b7f566f002b7e29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Android_Project\MyDrawerLab\BlockGameLab03\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_b3496f51f7a24758f401e30b864af34cab97267c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Project\MyDrawerLab\MyDrawerLab03OK\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="268ce6faabd18ecacf99ab8244671027a26f2886">
+        <dex dex="D:\Android_Project\MyDrawerLab\MyDrawerLab03OK\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ee59d08b736164dc169543388fd5961fa6a2f222\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Project\MyDrawerLab\BlockGameLab02\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1149e565b249f100cde7f6dd7bd0aa7d6b8425c2">
+        <dex dex="D:\Android_Project\MyDrawerLab\BlockGameLab02\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f059789188720417c7ba44bc40ccc6e3ee13958c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Project\MyDrawerLab\MyDrawerLab02OK\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6f899a4410d69ea544b3da34b0f9a28530c061d8">
+        <dex dex="D:\Android_Project\MyDrawerLab\MyDrawerLab02OK\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_cbaf8ec4e826e85ec06a9b7115297cb37b1560f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Project\MyDrawerLab\BlockGameLab02\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="37e30e2fd449891e4303415e69d16e105742cb27">
+        <dex dex="D:\Android_Project\MyDrawerLab\BlockGameLab02\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7f2e9411f0e96e25a6572ac97bc0aa2ff3e9c37c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Project\MyDrawerLab\BlockGameLab01\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="50eb8afb03ba91d02a5539d799ecf00f1be0a7f3">
+        <dex dex="D:\Android_Project\MyDrawerLab\BlockGameLab01\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_267514ac9e3bb1b1675680ceb3724398404a8bbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Project\MyDrawerLab\BlockGameLab03\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="cce79f818cf46d24c322c1846c7f5ff01be2437a">
+        <dex dex="D:\Android_Project\MyDrawerLab\BlockGameLab03\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b2cce3eb23c25b3bb54c3cd7dece4618d5e112bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Project\MyDrawerLab\MyDrawerLab02OK\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9c58f7e75ee8c06f2310ffb62fdd1464c6dbaac5">
+        <dex dex="D:\Android_Project\MyDrawerLab\MyDrawerLab02OK\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e648d467d97b7cb30fb7e8d78eeccaa1c3b52947\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Project\MyDrawerLab\BlockGameLab03\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1f8a5bcf26d83f61fa3e5283cb74d4f415368148">
+        <dex dex="D:\Android_Project\MyDrawerLab\BlockGameLab03\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_55f4dda5b7fcd37fea32c47e8404201ae92de876\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Project\MyDrawerLab\BlockGameLab01\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fced32d0fb0b396036f3052268a71a6224ee2df7">
+        <dex dex="D:\Android_Project\MyDrawerLab\BlockGameLab01\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_271da7617ffd829a0074429e7deee2698e6cefaf\classes.dex" />
+    </item>
+
+</items>

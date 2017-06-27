@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <item type="id" name="console">false</item>
+    <item type="id" name="ButtonGroup">false</item>
+    <item type="id" name="buttonScan">false</item>
+    <item type="id" name="buttonClear">false</item>
+    <item type="id" name="action_emailcode">false</item>
+    <item type="id" name="action_exit">false</item>
+</resources>
