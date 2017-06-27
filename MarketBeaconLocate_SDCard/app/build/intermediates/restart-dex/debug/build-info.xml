@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="21"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="2032817909244998"
+    token="4652860981434867190"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="317" />
+    <task
+        name="instant-run-dex"
+        duration="776" />
+    <task
+        name="instant-run-transform"
+        duration="35" />
+    <task
+        name="verifier"
+        duration="2" />
+
+    <artifact
+        location="D:\Android_Project\BluetoothLab04BLENormal\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="1632319099690096"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\Android_Project\BluetoothLab04BLENormal\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="1997255125123856"
+        verifier="METHOD_DELETED" >
+        <artifact
+            location="D:\Android_Project\BluetoothLab04BLENormal\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="1997293398924524"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\Android_Project\BluetoothLab04BLENormal\app\build\intermediates\builds\debug\1997293398924524\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="1997347130641882"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\Android_Project\BluetoothLab04BLENormal\app\build\intermediates\builds\debug\1997347130641882\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="1997626658247675"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\Android_Project\BluetoothLab04BLENormal\app\build\intermediates\builds\debug\1997626658247675\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="1997707849592668"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\Android_Project\BluetoothLab04BLENormal\app\build\intermediates\builds\debug\1997707849592668\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="2032626137202557"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\Android_Project\BluetoothLab04BLENormal\app\build\intermediates\builds\debug\2032626137202557\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="2032642476557874"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\Android_Project\BluetoothLab04BLENormal\app\build\intermediates\builds\debug\2032642476557874\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="2032817909244998"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\Android_Project\BluetoothLab04BLENormal\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

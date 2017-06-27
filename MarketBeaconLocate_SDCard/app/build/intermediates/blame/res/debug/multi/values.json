@@ -1,0 +1,4517 @@
+[
+    {
+        "outputFile": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 2108
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 57,
+                        "endColumn": 12,
+                        "endOffset": 2166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 2113,
+                    "endColumn": 54,
+                    "endOffset": 2163
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 2168,
+                    "endColumn": 44,
+                    "endOffset": 2208
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 2213,
+                    "endColumn": 48,
+                    "endOffset": 2257
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 2262,
+                    "endColumn": 40,
+                    "endOffset": 2298
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 2303,
+                    "endColumn": 54,
+                    "endOffset": 2353
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 2358,
+                    "endColumn": 62,
+                    "endOffset": 2416
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 2421,
+                    "endColumn": 75,
+                    "endOffset": 2492
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 2497,
+                    "endColumn": 61,
+                    "endOffset": 2554
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 2559,
+                    "endColumn": 72,
+                    "endOffset": 2627
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 2632,
+                    "endColumn": 77,
+                    "endOffset": 2705
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 2710,
+                    "endColumn": 80,
+                    "endOffset": 2786
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 2791,
+                    "endColumn": 60,
+                    "endOffset": 2847
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 2852,
+                    "endColumn": 74,
+                    "endOffset": 2922
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 2927,
+                    "endColumn": 75,
+                    "endOffset": 2998
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 3003,
+                    "endColumn": 76,
+                    "endOffset": 3075
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 3080,
+                    "endColumn": 77,
+                    "endOffset": 3153
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 3158,
+                    "endColumn": 69,
+                    "endOffset": 3223
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 3228,
+                    "endColumn": 70,
+                    "endOffset": 3294
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 3299,
+                    "endColumn": 60,
+                    "endOffset": 3355
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 3360,
+                    "endColumn": 61,
+                    "endOffset": 3417
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 3422,
+                    "endColumn": 76,
+                    "endOffset": 3494
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 3499,
+                    "endColumn": 77,
+                    "endOffset": 3572
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 3577,
+                    "endColumn": 105,
+                    "endOffset": 3678
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 3683,
+                    "endColumn": 105,
+                    "endOffset": 3784
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 3789,
+                    "endColumn": 78,
+                    "endOffset": 3863
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 3868,
+                    "endColumn": 79,
+                    "endOffset": 3943
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 3948,
+                    "endColumn": 56,
+                    "endOffset": 4000
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 4005,
+                    "endColumn": 57,
+                    "endOffset": 4058
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 4063,
+                    "endColumn": 73,
+                    "endOffset": 4132
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 4137,
+                    "endColumn": 74,
+                    "endOffset": 4207
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 4212,
+                    "endColumn": 64,
+                    "endOffset": 4272
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 4277,
+                    "endColumn": 65,
+                    "endOffset": 4338
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 4343,
+                    "endColumn": 66,
+                    "endOffset": 4405
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 4410,
+                    "endColumn": 67,
+                    "endOffset": 4473
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 4478,
+                    "endColumn": 103,
+                    "endOffset": 4577
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 4582,
+                    "endColumn": 105,
+                    "endOffset": 4683
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 4688,
+                    "endColumn": 79,
+                    "endOffset": 4763
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 4768,
+                    "endColumn": 80,
+                    "endOffset": 4844
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 4849,
+                    "endColumn": 58,
+                    "endOffset": 4903
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 4908,
+                    "endColumn": 58,
+                    "endOffset": 4962
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 4967,
+                    "endColumn": 58,
+                    "endOffset": 5021
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 5026,
+                    "endColumn": 58,
+                    "endOffset": 5080
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 5085,
+                    "endColumn": 58,
+                    "endOffset": 5139
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 5144,
+                    "endColumn": 62,
+                    "endOffset": 5202
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 5207,
+                    "endColumn": 63,
+                    "endOffset": 5266
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 5271,
+                    "endColumn": 57,
+                    "endOffset": 5324
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 5329,
+                    "endColumn": 58,
+                    "endOffset": 5383
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 5388,
+                    "endColumn": 70,
+                    "endOffset": 5454
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 5459,
+                    "endColumn": 71,
+                    "endOffset": 5526
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 5531,
+                    "endColumn": 71,
+                    "endOffset": 5598
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 5603,
+                    "endColumn": 72,
+                    "endOffset": 5671
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 5676,
+                    "endColumn": 56,
+                    "endOffset": 5728
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 5733,
+                    "endColumn": 57,
+                    "endOffset": 5786
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 5791,
+                    "endColumn": 72,
+                    "endOffset": 5859
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 5864,
+                    "endColumn": 73,
+                    "endOffset": 5933
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 5938,
+                    "endColumn": 73,
+                    "endOffset": 6007
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 6012,
+                    "endColumn": 74,
+                    "endOffset": 6082
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 6087,
+                    "endColumn": 69,
+                    "endOffset": 6152
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 6157,
+                    "endColumn": 70,
+                    "endOffset": 6223
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 19897,
+                    "endColumn": 69,
+                    "endOffset": 19962
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 19967,
+                    "endColumn": 69,
+                    "endOffset": 20032
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 20037,
+                    "endColumn": 76,
+                    "endOffset": 20109
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 20114,
+                    "endColumn": 63,
+                    "endOffset": 20173
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 20178,
+                    "endColumn": 64,
+                    "endOffset": 20238
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 20243,
+                    "endColumn": 68,
+                    "endOffset": 20307
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 20312,
+                    "endColumn": 76,
+                    "endOffset": 20384
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 20389,
+                    "endColumn": 74,
+                    "endOffset": 20459
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 20464,
+                    "endColumn": 68,
+                    "endOffset": 20528
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 20533,
+                    "endColumn": 67,
+                    "endOffset": 20596
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 20601,
+                    "endColumn": 76,
+                    "endOffset": 20673
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 20678,
+                    "endColumn": 58,
+                    "endOffset": 20732
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 20737,
+                    "endColumn": 56,
+                    "endOffset": 20789
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 20794,
+                    "endColumn": 58,
+                    "endOffset": 20848
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 20853,
+                    "endColumn": 59,
+                    "endOffset": 20908
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 20913,
+                    "endColumn": 65,
+                    "endOffset": 20974
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 20979,
+                    "endColumn": 66,
+                    "endOffset": 21041
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 21046,
+                    "endColumn": 57,
+                    "endOffset": 21099
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 21104,
+                    "endColumn": 64,
+                    "endOffset": 21164
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 21169,
+                    "endColumn": 63,
+                    "endOffset": 21228
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 21233,
+                    "endColumn": 60,
+                    "endOffset": 21289
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 21294,
+                    "endColumn": 60,
+                    "endOffset": 21350
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 21355,
+                    "endColumn": 60,
+                    "endOffset": 21411
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 21416,
+                    "endColumn": 61,
+                    "endOffset": 21473
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 21478,
+                    "endColumn": 63,
+                    "endOffset": 21537
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 21542,
+                    "endColumn": 63,
+                    "endOffset": 21601
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 21606,
+                    "endColumn": 63,
+                    "endOffset": 21665
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 21670,
+                    "endColumn": 64,
+                    "endOffset": 21730
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 21735,
+                    "endColumn": 62,
+                    "endOffset": 21793
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 21798,
+                    "endColumn": 59,
+                    "endOffset": 21853
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 21858,
+                    "endColumn": 60,
+                    "endOffset": 21914
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 21919,
+                    "endColumn": 58,
+                    "endOffset": 21973
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 21978,
+                    "endColumn": 59,
+                    "endOffset": 22033
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 22038,
+                    "endColumn": 61,
+                    "endOffset": 22095
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 22100,
+                    "endColumn": 70,
+                    "endOffset": 22166
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 22171,
+                    "endColumn": 59,
+                    "endOffset": 22226
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 22231,
+                    "endColumn": 67,
+                    "endOffset": 22294
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 22299,
+                    "endColumn": 57,
+                    "endOffset": 22352
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 22357,
+                    "endColumn": 55,
+                    "endOffset": 22408
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 220,
+                    "startColumn": 4,
+                    "startOffset": 22413,
+                    "endColumn": 66,
+                    "endOffset": 22475
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 22480,
+                    "endColumn": 67,
+                    "endOffset": 22543
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 22548,
+                    "endColumn": 67,
+                    "endOffset": 22611
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 22616,
+                    "endColumn": 67,
+                    "endOffset": 22679
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 22684,
+                    "endColumn": 85,
+                    "endOffset": 22765
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 22770,
+                    "endColumn": 86,
+                    "endOffset": 22852
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 22857,
+                    "endColumn": 56,
+                    "endOffset": 22909
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 22914,
+                    "endColumn": 47,
+                    "endOffset": 22957
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 22962,
+                    "endColumn": 48,
+                    "endOffset": 23006
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 23011,
+                    "endColumn": 50,
+                    "endOffset": 23057
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 23062,
+                    "endColumn": 33,
+                    "endOffset": 23091
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 231,
+                    "startColumn": 4,
+                    "startOffset": 23096,
+                    "endColumn": 46,
+                    "endOffset": 23138
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 23143,
+                    "endColumn": 48,
+                    "endOffset": 23187
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 23192,
+                    "endColumn": 45,
+                    "endOffset": 23233
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 234,
+                    "startColumn": 4,
+                    "startOffset": 23238,
+                    "endColumn": 31,
+                    "endOffset": 23265
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 235,
+                    "startColumn": 4,
+                    "startOffset": 23270,
+                    "endColumn": 54,
+                    "endOffset": 23320
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 236,
+                    "startColumn": 4,
+                    "startOffset": 23325,
+                    "endColumn": 73,
+                    "endOffset": 23394
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 237,
+                    "startColumn": 4,
+                    "startOffset": 23399,
+                    "endColumn": 77,
+                    "endOffset": 23472
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 238,
+                    "startColumn": 4,
+                    "startOffset": 23477,
+                    "endColumn": 92,
+                    "endOffset": 23565
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 239,
+                    "startColumn": 4,
+                    "startOffset": 23570,
+                    "endColumn": 69,
+                    "endOffset": 23635
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 240,
+                    "startColumn": 4,
+                    "startOffset": 23640,
+                    "endColumn": 77,
+                    "endOffset": 23713
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 241,
+                    "startColumn": 4,
+                    "startOffset": 23718,
+                    "endColumn": 53,
+                    "endOffset": 23767
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 23772,
+                    "endColumn": 69,
+                    "endOffset": 23837
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 243,
+                    "startColumn": 4,
+                    "startOffset": 23842,
+                    "endColumn": 84,
+                    "endOffset": 23922
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 244,
+                    "startColumn": 4,
+                    "startOffset": 23927,
+                    "endColumn": 72,
+                    "endOffset": 23995
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 245,
+                    "startColumn": 4,
+                    "startOffset": 24000,
+                    "endColumn": 73,
+                    "endOffset": 24069
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 246,
+                    "startColumn": 4,
+                    "startOffset": 24074,
+                    "endColumn": 68,
+                    "endOffset": 24138
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 247,
+                    "startColumn": 4,
+                    "startOffset": 24143,
+                    "endColumn": 74,
+                    "endOffset": 24213
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 248,
+                    "startColumn": 4,
+                    "startOffset": 24218,
+                    "endColumn": 73,
+                    "endOffset": 24287
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 249,
+                    "startColumn": 4,
+                    "startOffset": 24292,
+                    "endColumn": 73,
+                    "endOffset": 24361
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 250,
+                    "startColumn": 4,
+                    "startOffset": 24366,
+                    "endColumn": 88,
+                    "endOffset": 24450
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 251,
+                    "startColumn": 4,
+                    "startOffset": 24455,
+                    "endColumn": 69,
+                    "endOffset": 24520
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 252,
+                    "startColumn": 4,
+                    "startOffset": 24525,
+                    "endColumn": 52,
+                    "endOffset": 24573
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 253,
+                    "startColumn": 4,
+                    "startOffset": 24578,
+                    "endColumn": 50,
+                    "endOffset": 24624
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 254,
+                    "startColumn": 4,
+                    "startOffset": 24629,
+                    "endColumn": 56,
+                    "endOffset": 24681
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 255,
+                    "startColumn": 4,
+                    "startOffset": 24686,
+                    "endColumn": 52,
+                    "endOffset": 24734
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 256,
+                    "startColumn": 4,
+                    "startOffset": 24739,
+                    "endColumn": 59,
+                    "endOffset": 24794
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 257,
+                    "startColumn": 4,
+                    "startOffset": 24799,
+                    "endColumn": 67,
+                    "endOffset": 24862
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 258,
+                    "startColumn": 4,
+                    "startOffset": 24867,
+                    "endColumn": 64,
+                    "endOffset": 24927
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 259,
+                    "startColumn": 4,
+                    "startOffset": 24932,
+                    "endColumn": 68,
+                    "endOffset": 24996
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 260,
+                    "startColumn": 4,
+                    "startOffset": 25001,
+                    "endColumn": 54,
+                    "endOffset": 25051
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 261,
+                    "startColumn": 4,
+                    "startOffset": 25056,
+                    "endColumn": 71,
+                    "endOffset": 25123
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 25128,
+                    "endColumn": 63,
+                    "endOffset": 25187
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 263,
+                    "startColumn": 4,
+                    "startOffset": 25192,
+                    "endLine": 265,
+                    "endColumn": 12,
+                    "endOffset": 25270
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 266,
+                    "startColumn": 4,
+                    "startOffset": 25275,
+                    "endLine": 268,
+                    "endColumn": 12,
+                    "endOffset": 25342
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 269,
+                    "startColumn": 4,
+                    "startOffset": 25347,
+                    "endLine": 275,
+                    "endColumn": 12,
+                    "endOffset": 25819
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 276,
+                    "startColumn": 4,
+                    "startOffset": 25824,
+                    "endLine": 279,
+                    "endColumn": 12,
+                    "endOffset": 26041
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 280,
+                    "startColumn": 4,
+                    "startOffset": 26046,
+                    "endLine": 283,
+                    "endColumn": 12,
+                    "endOffset": 26263
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 284,
+                    "startColumn": 4,
+                    "startOffset": 26268,
+                    "endLine": 288,
+                    "endColumn": 12,
+                    "endOffset": 26531
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 289,
+                    "startColumn": 4,
+                    "startOffset": 26536,
+                    "endLine": 292,
+                    "endColumn": 12,
+                    "endOffset": 26758
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 293,
+                    "startColumn": 4,
+                    "startOffset": 26763,
+                    "endLine": 296,
+                    "endColumn": 12,
+                    "endOffset": 26988
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 297,
+                    "startColumn": 4,
+                    "startOffset": 26993,
+                    "endLine": 300,
+                    "endColumn": 12,
+                    "endOffset": 27218
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 301,
+                    "startColumn": 4,
+                    "startOffset": 27223,
+                    "endLine": 304,
+                    "endColumn": 12,
+                    "endOffset": 27448
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 305,
+                    "startColumn": 4,
+                    "startOffset": 27453,
+                    "endLine": 308,
+                    "endColumn": 12,
+                    "endOffset": 27678
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 309,
+                    "startColumn": 4,
+                    "startOffset": 27683,
+                    "endLine": 312,
+                    "endColumn": 12,
+                    "endOffset": 27905
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 313,
+                    "startColumn": 4,
+                    "startOffset": 27910,
+                    "endLine": 316,
+                    "endColumn": 12,
+                    "endOffset": 28144
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 317,
+                    "startColumn": 4,
+                    "startOffset": 28149,
+                    "endLine": 320,
+                    "endColumn": 12,
+                    "endOffset": 28370
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 321,
+                    "startColumn": 4,
+                    "startOffset": 28375,
+                    "endLine": 324,
+                    "endColumn": 12,
+                    "endOffset": 28615
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 325,
+                    "startColumn": 4,
+                    "startOffset": 28620,
+                    "endColumn": 117,
+                    "endOffset": 28733
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 326,
+                    "startColumn": 4,
+                    "startOffset": 28738,
+                    "endColumn": 117,
+                    "endOffset": 28851
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 327,
+                    "startColumn": 4,
+                    "startOffset": 28856,
+                    "endLine": 330,
+                    "endColumn": 12,
+                    "endOffset": 29081
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 331,
+                    "startColumn": 4,
+                    "startOffset": 29086,
+                    "endLine": 334,
+                    "endColumn": 12,
+                    "endOffset": 29329
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 335,
+                    "startColumn": 4,
+                    "startOffset": 29334,
+                    "endLine": 338,
+                    "endColumn": 12,
+                    "endOffset": 29548
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 339,
+                    "startColumn": 4,
+                    "startOffset": 29553,
+                    "endLine": 343,
+                    "endColumn": 12,
+                    "endOffset": 29831
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 344,
+                    "startColumn": 4,
+                    "startOffset": 29836,
+                    "endLine": 347,
+                    "endColumn": 12,
+                    "endOffset": 30039
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 348,
+                    "startColumn": 4,
+                    "startOffset": 30044,
+                    "endLine": 350,
+                    "endColumn": 12,
+                    "endOffset": 30170
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 351,
+                    "startColumn": 4,
+                    "startOffset": 30175,
+                    "endLine": 354,
+                    "endColumn": 12,
+                    "endOffset": 30397
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 355,
+                    "startColumn": 4,
+                    "startOffset": 30402,
+                    "endLine": 358,
+                    "endColumn": 12,
+                    "endOffset": 30643
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 359,
+                    "startColumn": 4,
+                    "startOffset": 30648,
+                    "endLine": 362,
+                    "endColumn": 12,
+                    "endOffset": 30868
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 363,
+                    "startColumn": 4,
+                    "startOffset": 30873,
+                    "endLine": 366,
+                    "endColumn": 12,
+                    "endOffset": 31117
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 367,
+                    "startColumn": 4,
+                    "startOffset": 31122,
+                    "endLine": 370,
+                    "endColumn": 12,
+                    "endOffset": 31338
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 371,
+                    "startColumn": 4,
+                    "startOffset": 31343,
+                    "endLine": 374,
+                    "endColumn": 12,
+                    "endOffset": 31583
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 375,
+                    "startColumn": 4,
+                    "startOffset": 31588,
+                    "endLine": 379,
+                    "endColumn": 12,
+                    "endOffset": 31878
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 380,
+                    "startColumn": 4,
+                    "startOffset": 31883,
+                    "endLine": 382,
+                    "endColumn": 12,
+                    "endOffset": 32100
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 383,
+                    "startColumn": 4,
+                    "startOffset": 32105,
+                    "endLine": 385,
+                    "endColumn": 12,
+                    "endOffset": 32338
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 386,
+                    "startColumn": 4,
+                    "startOffset": 32343,
+                    "endLine": 388,
+                    "endColumn": 12,
+                    "endOffset": 32552
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 389,
+                    "startColumn": 4,
+                    "startOffset": 32557,
+                    "endLine": 391,
+                    "endColumn": 12,
+                    "endOffset": 32782
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 392,
+                    "startColumn": 4,
+                    "startOffset": 32787,
+                    "endLine": 394,
+                    "endColumn": 12,
+                    "endOffset": 33005
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 395,
+                    "startColumn": 4,
+                    "startOffset": 33010,
+                    "endLine": 397,
+                    "endColumn": 12,
+                    "endOffset": 33220
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 398,
+                    "startColumn": 4,
+                    "startOffset": 33225,
+                    "endLine": 400,
+                    "endColumn": 12,
+                    "endOffset": 33428
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 401,
+                    "startColumn": 4,
+                    "startOffset": 33433,
+                    "endColumn": 111,
+                    "endOffset": 33540
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 402,
+                    "startColumn": 4,
+                    "startOffset": 33545,
+                    "endColumn": 111,
+                    "endOffset": 33652
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 403,
+                    "startColumn": 4,
+                    "startOffset": 33657,
+                    "endColumn": 104,
+                    "endOffset": 33757
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 404,
+                    "startColumn": 4,
+                    "startOffset": 33762,
+                    "endLine": 406,
+                    "endColumn": 12,
+                    "endOffset": 33971
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 407,
+                    "startColumn": 4,
+                    "startOffset": 33976,
+                    "endColumn": 133,
+                    "endOffset": 34105
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 408,
+                    "startColumn": 4,
+                    "startOffset": 34110,
+                    "endColumn": 127,
+                    "endOffset": 34233
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 409,
+                    "startColumn": 4,
+                    "startOffset": 34238,
+                    "endColumn": 73,
+                    "endOffset": 34307
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 410,
+                    "startColumn": 4,
+                    "startOffset": 34312,
+                    "endLine": 413,
+                    "endColumn": 12,
+                    "endOffset": 34560
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 414,
+                    "startColumn": 4,
+                    "startOffset": 34565,
+                    "endColumn": 87,
+                    "endOffset": 34648
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 415,
+                    "startColumn": 4,
+                    "startOffset": 34653,
+                    "endLine": 420,
+                    "endColumn": 12,
+                    "endOffset": 35050
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 421,
+                    "startColumn": 4,
+                    "startOffset": 35055,
+                    "endColumn": 81,
+                    "endOffset": 35132
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 422,
+                    "startColumn": 4,
+                    "startOffset": 35137,
+                    "endColumn": 85,
+                    "endOffset": 35218
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 423,
+                    "startColumn": 4,
+                    "startOffset": 35223,
+                    "endLine": 432,
+                    "endColumn": 12,
+                    "endOffset": 35809
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 433,
+                    "startColumn": 4,
+                    "startOffset": 35814,
+                    "endColumn": 90,
+                    "endOffset": 35900
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 434,
+                    "startColumn": 4,
+                    "startOffset": 35905,
+                    "endLine": 439,
+                    "endColumn": 12,
+                    "endOffset": 36308
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 440,
+                    "startColumn": 4,
+                    "startOffset": 36313,
+                    "endColumn": 93,
+                    "endOffset": 36402
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 441,
+                    "startColumn": 4,
+                    "startOffset": 36407,
+                    "endColumn": 57,
+                    "endOffset": 36460
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 442,
+                    "startColumn": 4,
+                    "startOffset": 36465,
+                    "endLine": 444,
+                    "endColumn": 12,
+                    "endOffset": 36608
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 445,
+                    "startColumn": 4,
+                    "startOffset": 36613,
+                    "endLine": 477,
+                    "endColumn": 12,
+                    "endOffset": 39021
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 478,
+                    "startColumn": 4,
+                    "startOffset": 39026,
+                    "endLine": 480,
+                    "endColumn": 12,
+                    "endOffset": 39174
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 481,
+                    "startColumn": 4,
+                    "startOffset": 39179,
+                    "endLine": 512,
+                    "endColumn": 12,
+                    "endOffset": 41721
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 513,
+                    "startColumn": 4,
+                    "startOffset": 41726,
+                    "endLine": 611,
+                    "endColumn": 12,
+                    "endOffset": 48096
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 612,
+                    "startColumn": 4,
+                    "startOffset": 48101,
+                    "endLine": 707,
+                    "endColumn": 12,
+                    "endOffset": 54378
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 708,
+                    "startColumn": 4,
+                    "startOffset": 54383,
+                    "endLine": 806,
+                    "endColumn": 12,
+                    "endOffset": 60849
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 807,
+                    "startColumn": 4,
+                    "startOffset": 60854,
+                    "endLine": 821,
+                    "endColumn": 12,
+                    "endOffset": 61788
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 822,
+                    "startColumn": 4,
+                    "startOffset": 61793,
+                    "endLine": 826,
+                    "endColumn": 12,
+                    "endOffset": 62044
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 827,
+                    "startColumn": 4,
+                    "startOffset": 62049,
+                    "endLine": 831,
+                    "endColumn": 12,
+                    "endOffset": 62280
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 832,
+                    "startColumn": 4,
+                    "startOffset": 62285,
+                    "endLine": 841,
+                    "endColumn": 12,
+                    "endOffset": 62827
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 842,
+                    "startColumn": 4,
+                    "startOffset": 62832,
+                    "endLine": 850,
+                    "endColumn": 12,
+                    "endOffset": 63321
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 851,
+                    "startColumn": 4,
+                    "startOffset": 63326,
+                    "endLine": 861,
+                    "endColumn": 12,
+                    "endOffset": 63994
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 862,
+                    "startColumn": 4,
+                    "startOffset": 63999,
+                    "endLine": 864,
+                    "endColumn": 12,
+                    "endOffset": 64159
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 865,
+                    "startColumn": 4,
+                    "startOffset": 64164,
+                    "endLine": 871,
+                    "endColumn": 12,
+                    "endOffset": 64687
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 872,
+                    "startColumn": 4,
+                    "startOffset": 64692,
+                    "endLine": 879,
+                    "endColumn": 12,
+                    "endOffset": 65251
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 880,
+                    "startColumn": 4,
+                    "startOffset": 65256,
+                    "endLine": 886,
+                    "endColumn": 12,
+                    "endOffset": 65625
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 887,
+                    "startColumn": 4,
+                    "startOffset": 65630,
+                    "endLine": 891,
+                    "endColumn": 12,
+                    "endOffset": 65995
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 892,
+                    "startColumn": 4,
+                    "startOffset": 66000,
+                    "endLine": 898,
+                    "endColumn": 12,
+                    "endOffset": 66486
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 899,
+                    "startColumn": 4,
+                    "startOffset": 66491,
+                    "endLine": 908,
+                    "endColumn": 12,
+                    "endOffset": 66963
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 909,
+                    "startColumn": 4,
+                    "startOffset": 66968,
+                    "endLine": 914,
+                    "endColumn": 12,
+                    "endOffset": 67316
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 915,
+                    "startColumn": 4,
+                    "startOffset": 67321,
+                    "endLine": 919,
+                    "endColumn": 12,
+                    "endOffset": 67643
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 920,
+                    "startColumn": 4,
+                    "startOffset": 67648,
+                    "endLine": 923,
+                    "endColumn": 12,
+                    "endOffset": 67949
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 924,
+                    "startColumn": 4,
+                    "startOffset": 67954,
+                    "endLine": 928,
+                    "endColumn": 12,
+                    "endOffset": 68211
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 929,
+                    "startColumn": 4,
+                    "startOffset": 68216,
+                    "endColumn": 112,
+                    "endOffset": 68324
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 930,
+                    "startColumn": 4,
+                    "startOffset": 68329,
+                    "endColumn": 114,
+                    "endOffset": 68439
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 931,
+                    "startColumn": 4,
+                    "startOffset": 68444,
+                    "endLine": 933,
+                    "endColumn": 12,
+                    "endOffset": 68678
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 934,
+                    "startColumn": 4,
+                    "startOffset": 68683,
+                    "endLine": 936,
+                    "endColumn": 12,
+                    "endOffset": 68889
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 937,
+                    "startColumn": 4,
+                    "startOffset": 68894,
+                    "endLine": 939,
+                    "endColumn": 12,
+                    "endOffset": 69106
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 940,
+                    "startColumn": 4,
+                    "startOffset": 69111,
+                    "endLine": 942,
+                    "endColumn": 12,
+                    "endOffset": 69324
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 943,
+                    "startColumn": 4,
+                    "startOffset": 69329,
+                    "endColumn": 106,
+                    "endOffset": 69431
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 944,
+                    "startColumn": 4,
+                    "startOffset": 69436,
+                    "endLine": 947,
+                    "endColumn": 12,
+                    "endOffset": 69624
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 948,
+                    "startColumn": 4,
+                    "startOffset": 69629,
+                    "endLine": 954,
+                    "endColumn": 12,
+                    "endOffset": 70079
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 955,
+                    "startColumn": 4,
+                    "startOffset": 70084,
+                    "endLine": 958,
+                    "endColumn": 12,
+                    "endOffset": 70319
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 959,
+                    "startColumn": 4,
+                    "startOffset": 70324,
+                    "endLine": 962,
+                    "endColumn": 12,
+                    "endOffset": 70578
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 963,
+                    "startColumn": 4,
+                    "startOffset": 70583,
+                    "endColumn": 100,
+                    "endOffset": 70679
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 964,
+                    "startColumn": 4,
+                    "startOffset": 70684,
+                    "endLine": 967,
+                    "endColumn": 12,
+                    "endOffset": 70866
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 968,
+                    "startColumn": 4,
+                    "startOffset": 70871,
+                    "endColumn": 89,
+                    "endOffset": 70956
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 969,
+                    "startColumn": 4,
+                    "startOffset": 70961,
+                    "endLine": 974,
+                    "endColumn": 12,
+                    "endOffset": 71400
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 975,
+                    "startColumn": 4,
+                    "startOffset": 71405,
+                    "endColumn": 111,
+                    "endOffset": 71512
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 976,
+                    "startColumn": 4,
+                    "startOffset": 71517,
+                    "endLine": 986,
+                    "endColumn": 12,
+                    "endOffset": 72317
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 987,
+                    "startColumn": 4,
+                    "startOffset": 72322,
+                    "endLine": 991,
+                    "endColumn": 12,
+                    "endOffset": 72647
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 992,
+                    "startColumn": 4,
+                    "startOffset": 72652,
+                    "endLine": 1005,
+                    "endColumn": 12,
+                    "endOffset": 73566
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1006,
+                    "startColumn": 4,
+                    "startOffset": 73571,
+                    "endLine": 1015,
+                    "endColumn": 12,
+                    "endOffset": 74232
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1016,
+                    "startColumn": 4,
+                    "startOffset": 74237,
+                    "endLine": 1020,
+                    "endColumn": 12,
+                    "endOffset": 74517
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1021,
+                    "startColumn": 4,
+                    "startOffset": 74522,
+                    "endLine": 1061,
+                    "endColumn": 12,
+                    "endOffset": 77634
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1062,
+                    "startColumn": 4,
+                    "startOffset": 77639,
+                    "endLine": 1102,
+                    "endColumn": 12,
+                    "endOffset": 80765
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1103,
+                    "startColumn": 4,
+                    "startOffset": 80770,
+                    "endLine": 1144,
+                    "endColumn": 12,
+                    "endOffset": 84022
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1145,
+                    "startColumn": 4,
+                    "startOffset": 84027,
+                    "endColumn": 86,
+                    "endOffset": 84109
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1146,
+                    "startColumn": 4,
+                    "startOffset": 84114,
+                    "endLine": 1149,
+                    "endColumn": 12,
+                    "endOffset": 84338
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1150,
+                    "startColumn": 4,
+                    "startOffset": 84343,
+                    "endLine": 1153,
+                    "endColumn": 12,
+                    "endOffset": 84587
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1154,
+                    "startColumn": 4,
+                    "startOffset": 84592,
+                    "endLine": 1157,
+                    "endColumn": 12,
+                    "endOffset": 84828
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1158,
+                    "startColumn": 4,
+                    "startOffset": 84833,
+                    "endLine": 1160,
+                    "endColumn": 12,
+                    "endOffset": 84980
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1161,
+                    "startColumn": 4,
+                    "startOffset": 84985,
+                    "endLine": 1163,
+                    "endColumn": 12,
+                    "endOffset": 85151
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1164,
+                    "startColumn": 4,
+                    "startOffset": 85156,
+                    "endLine": 1166,
+                    "endColumn": 12,
+                    "endOffset": 85318
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1167,
+                    "startColumn": 4,
+                    "startOffset": 85323,
+                    "endLine": 1170,
+                    "endColumn": 12,
+                    "endOffset": 85561
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1171,
+                    "startColumn": 4,
+                    "startOffset": 85566,
+                    "endLine": 1173,
+                    "endColumn": 12,
+                    "endOffset": 85731
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1174,
+                    "startColumn": 4,
+                    "startOffset": 85736,
+                    "endLine": 1176,
+                    "endColumn": 12,
+                    "endOffset": 85904
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1177,
+                    "startColumn": 4,
+                    "startOffset": 85909,
+                    "endLine": 1179,
+                    "endColumn": 12,
+                    "endOffset": 86075
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1180,
+                    "startColumn": 4,
+                    "startOffset": 86080,
+                    "endLine": 1183,
+                    "endColumn": 12,
+                    "endOffset": 86349
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1184,
+                    "startColumn": 4,
+                    "startOffset": 86354,
+                    "endLine": 1186,
+                    "endColumn": 12,
+                    "endOffset": 86548
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1187,
+                    "startColumn": 4,
+                    "startOffset": 86553,
+                    "endColumn": 83,
+                    "endOffset": 86632
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1188,
+                    "startColumn": 4,
+                    "startOffset": 86637,
+                    "endColumn": 95,
+                    "endOffset": 86728
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1189,
+                    "startColumn": 4,
+                    "startOffset": 86733,
+                    "endColumn": 95,
+                    "endOffset": 86824
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1190,
+                    "startColumn": 4,
+                    "startOffset": 86829,
+                    "endColumn": 97,
+                    "endOffset": 86922
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1191,
+                    "startColumn": 4,
+                    "startOffset": 86927,
+                    "endColumn": 99,
+                    "endOffset": 87022
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1192,
+                    "startColumn": 4,
+                    "startOffset": 87027,
+                    "endColumn": 101,
+                    "endOffset": 87124
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1193,
+                    "startColumn": 4,
+                    "startOffset": 87129,
+                    "endColumn": 101,
+                    "endOffset": 87226
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1194,
+                    "startColumn": 4,
+                    "startOffset": 87231,
+                    "endColumn": 101,
+                    "endOffset": 87328
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1195,
+                    "startColumn": 4,
+                    "startOffset": 87333,
+                    "endColumn": 101,
+                    "endOffset": 87430
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1196,
+                    "startColumn": 4,
+                    "startOffset": 87435,
+                    "endColumn": 101,
+                    "endOffset": 87532
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1197,
+                    "startColumn": 4,
+                    "startOffset": 87537,
+                    "endColumn": 99,
+                    "endOffset": 87632
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1198,
+                    "startColumn": 4,
+                    "startOffset": 87637,
+                    "endColumn": 95,
+                    "endOffset": 87728
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1199,
+                    "startColumn": 4,
+                    "startOffset": 87733,
+                    "endColumn": 111,
+                    "endOffset": 87840
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1200,
+                    "startColumn": 4,
+                    "startOffset": 87845,
+                    "endColumn": 128,
+                    "endOffset": 87969
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1201,
+                    "startColumn": 4,
+                    "startOffset": 87974,
+                    "endColumn": 122,
+                    "endOffset": 88092
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1202,
+                    "startColumn": 4,
+                    "startOffset": 88097,
+                    "endColumn": 141,
+                    "endOffset": 88234
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1203,
+                    "startColumn": 4,
+                    "startOffset": 88239,
+                    "endColumn": 141,
+                    "endOffset": 88376
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1204,
+                    "startColumn": 4,
+                    "startOffset": 88381,
+                    "endColumn": 97,
+                    "endOffset": 88474
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1205,
+                    "startColumn": 4,
+                    "startOffset": 88479,
+                    "endColumn": 113,
+                    "endOffset": 88588
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1206,
+                    "startColumn": 4,
+                    "startOffset": 88593,
+                    "endColumn": 93,
+                    "endOffset": 88682
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1207,
+                    "startColumn": 4,
+                    "startOffset": 88687,
+                    "endColumn": 127,
+                    "endOffset": 88810
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1208,
+                    "startColumn": 4,
+                    "startOffset": 88815,
+                    "endColumn": 121,
+                    "endOffset": 88932
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1209,
+                    "startColumn": 4,
+                    "startOffset": 88937,
+                    "endColumn": 95,
+                    "endOffset": 89028
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1210,
+                    "startColumn": 4,
+                    "startOffset": 89033,
+                    "endColumn": 111,
+                    "endOffset": 89140
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1211,
+                    "startColumn": 4,
+                    "startOffset": 89145,
+                    "endColumn": 99,
+                    "endOffset": 89240
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1212,
+                    "startColumn": 4,
+                    "startOffset": 89245,
+                    "endColumn": 115,
+                    "endOffset": 89356
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1213,
+                    "startColumn": 4,
+                    "startOffset": 89361,
+                    "endColumn": 95,
+                    "endOffset": 89452
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1214,
+                    "startColumn": 4,
+                    "startOffset": 89457,
+                    "endColumn": 111,
+                    "endOffset": 89564
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1215,
+                    "startColumn": 4,
+                    "startOffset": 89569,
+                    "endColumn": 127,
+                    "endOffset": 89692
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1216,
+                    "startColumn": 4,
+                    "startOffset": 89697,
+                    "endColumn": 135,
+                    "endOffset": 89828
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1217,
+                    "startColumn": 4,
+                    "startOffset": 89833,
+                    "endColumn": 151,
+                    "endOffset": 89980
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1218,
+                    "startColumn": 4,
+                    "startOffset": 89985,
+                    "endColumn": 129,
+                    "endOffset": 90110
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1219,
+                    "startColumn": 4,
+                    "startOffset": 90115,
+                    "endColumn": 145,
+                    "endOffset": 90256
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1220,
+                    "startColumn": 4,
+                    "startOffset": 90261,
+                    "endColumn": 137,
+                    "endOffset": 90394
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1221,
+                    "startColumn": 4,
+                    "startOffset": 90399,
+                    "endColumn": 140,
+                    "endOffset": 90535
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1222,
+                    "startColumn": 4,
+                    "startOffset": 90540,
+                    "endColumn": 131,
+                    "endOffset": 90667
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1223,
+                    "startColumn": 4,
+                    "startOffset": 90672,
+                    "endColumn": 134,
+                    "endOffset": 90802
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1224,
+                    "startColumn": 4,
+                    "startOffset": 90807,
+                    "endColumn": 123,
+                    "endOffset": 90926
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1225,
+                    "startColumn": 4,
+                    "startOffset": 90931,
+                    "endColumn": 129,
+                    "endOffset": 91056
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1226,
+                    "startColumn": 4,
+                    "startOffset": 91061,
+                    "endColumn": 129,
+                    "endOffset": 91186
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1227,
+                    "startColumn": 4,
+                    "startOffset": 91191,
+                    "endColumn": 111,
+                    "endOffset": 91298
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1228,
+                    "startColumn": 4,
+                    "startOffset": 91303,
+                    "endColumn": 133,
+                    "endOffset": 91432
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1229,
+                    "startColumn": 4,
+                    "startOffset": 91437,
+                    "endColumn": 131,
+                    "endOffset": 91564
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1230,
+                    "startColumn": 4,
+                    "startOffset": 91569,
+                    "endColumn": 125,
+                    "endOffset": 91690
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1231,
+                    "startColumn": 4,
+                    "startOffset": 91695,
+                    "endColumn": 65,
+                    "endOffset": 91756
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1232,
+                    "startColumn": 4,
+                    "startOffset": 91761,
+                    "endColumn": 89,
+                    "endOffset": 91846
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1233,
+                    "startColumn": 4,
+                    "startOffset": 91851,
+                    "endColumn": 79,
+                    "endOffset": 91926
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1234,
+                    "startColumn": 4,
+                    "startOffset": 91931,
+                    "endColumn": 97,
+                    "endOffset": 92024
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1235,
+                    "startColumn": 4,
+                    "startOffset": 92029,
+                    "endColumn": 77,
+                    "endOffset": 92102
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1236,
+                    "startColumn": 4,
+                    "startOffset": 92107,
+                    "endColumn": 105,
+                    "endOffset": 92208
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1237,
+                    "startColumn": 4,
+                    "startOffset": 92213,
+                    "endColumn": 91,
+                    "endOffset": 92300
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1238,
+                    "startColumn": 4,
+                    "startOffset": 92305,
+                    "endColumn": 109,
+                    "endOffset": 92410
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1239,
+                    "startColumn": 4,
+                    "startOffset": 92415,
+                    "endLine": 1242,
+                    "endColumn": 12,
+                    "endOffset": 92581
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1243,
+                    "startColumn": 4,
+                    "startOffset": 92586,
+                    "endLine": 1246,
+                    "endColumn": 12,
+                    "endOffset": 92746
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1247,
+                    "startColumn": 4,
+                    "startOffset": 92751,
+                    "endColumn": 79,
+                    "endOffset": 92826
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1248,
+                    "startColumn": 4,
+                    "startOffset": 92831,
+                    "endColumn": 99,
+                    "endOffset": 92926
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1249,
+                    "startColumn": 4,
+                    "startOffset": 92931,
+                    "endColumn": 89,
+                    "endOffset": 93016
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1250,
+                    "startColumn": 4,
+                    "startOffset": 93021,
+                    "endColumn": 109,
+                    "endOffset": 93126
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1251,
+                    "startColumn": 4,
+                    "startOffset": 93131,
+                    "endColumn": 91,
+                    "endOffset": 93218
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1252,
+                    "startColumn": 4,
+                    "startOffset": 93223,
+                    "endColumn": 87,
+                    "endOffset": 93306
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1253,
+                    "startColumn": 4,
+                    "startOffset": 93311,
+                    "endColumn": 99,
+                    "endOffset": 93406
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1254,
+                    "startColumn": 4,
+                    "startOffset": 93411,
+                    "endColumn": 101,
+                    "endOffset": 93508
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1255,
+                    "startColumn": 4,
+                    "startOffset": 93513,
+                    "endColumn": 103,
+                    "endOffset": 93612
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1256,
+                    "startColumn": 4,
+                    "startOffset": 93617,
+                    "endColumn": 103,
+                    "endOffset": 93716
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1257,
+                    "startColumn": 4,
+                    "startOffset": 93721,
+                    "endColumn": 93,
+                    "endOffset": 93810
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1258,
+                    "startColumn": 4,
+                    "startOffset": 93815,
+                    "endColumn": 119,
+                    "endOffset": 93930
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1259,
+                    "startColumn": 4,
+                    "startOffset": 93935,
+                    "endColumn": 117,
+                    "endOffset": 94048
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1260,
+                    "startColumn": 4,
+                    "startOffset": 94053,
+                    "endColumn": 89,
+                    "endOffset": 94138
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1261,
+                    "startColumn": 4,
+                    "startOffset": 94143,
+                    "endColumn": 107,
+                    "endOffset": 94246
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1262,
+                    "startColumn": 4,
+                    "startOffset": 94251,
+                    "endColumn": 109,
+                    "endOffset": 94356
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1263,
+                    "startColumn": 4,
+                    "startOffset": 94361,
+                    "endColumn": 111,
+                    "endOffset": 94468
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1264,
+                    "startColumn": 4,
+                    "startOffset": 94473,
+                    "endLine": 1266,
+                    "endColumn": 12,
+                    "endOffset": 94643
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1267,
+                    "startColumn": 4,
+                    "startOffset": 94648,
+                    "endColumn": 115,
+                    "endOffset": 94759
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1268,
+                    "startColumn": 4,
+                    "startOffset": 94764,
+                    "endColumn": 85,
+                    "endOffset": 94845
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1269,
+                    "startColumn": 4,
+                    "startOffset": 94850,
+                    "endColumn": 99,
+                    "endOffset": 94945
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1270,
+                    "startColumn": 4,
+                    "startOffset": 94950,
+                    "endColumn": 111,
+                    "endOffset": 95057
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1271,
+                    "startColumn": 4,
+                    "startOffset": 95062,
+                    "endColumn": 66,
+                    "endOffset": 95124
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1272,
+                    "startColumn": 4,
+                    "startOffset": 95129,
+                    "endColumn": 113,
+                    "endOffset": 95238
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1273,
+                    "startColumn": 4,
+                    "startOffset": 95243,
+                    "endColumn": 67,
+                    "endOffset": 95306
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1274,
+                    "startColumn": 4,
+                    "startOffset": 95311,
+                    "endColumn": 115,
+                    "endOffset": 95422
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1275,
+                    "startColumn": 4,
+                    "startOffset": 95427,
+                    "endColumn": 131,
+                    "endOffset": 95554
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1276,
+                    "startColumn": 4,
+                    "startOffset": 95559,
+                    "endColumn": 115,
+                    "endOffset": 95670
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1277,
+                    "startColumn": 4,
+                    "startOffset": 95675,
+                    "endColumn": 68,
+                    "endOffset": 95739
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1278,
+                    "startColumn": 4,
+                    "startOffset": 95744,
+                    "endColumn": 94,
+                    "endOffset": 95834
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1279,
+                    "startColumn": 4,
+                    "startOffset": 95839,
+                    "endColumn": 114,
+                    "endOffset": 95949
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1280,
+                    "startColumn": 4,
+                    "startOffset": 95954,
+                    "endColumn": 112,
+                    "endOffset": 96062
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1281,
+                    "startColumn": 4,
+                    "startOffset": 96067,
+                    "endColumn": 98,
+                    "endOffset": 96161
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1282,
+                    "startColumn": 4,
+                    "startOffset": 96166,
+                    "endColumn": 119,
+                    "endOffset": 96281
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1283,
+                    "startColumn": 4,
+                    "startOffset": 96286,
+                    "endColumn": 121,
+                    "endOffset": 96403
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1284,
+                    "startColumn": 4,
+                    "startOffset": 96408,
+                    "endColumn": 110,
+                    "endOffset": 96514
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1285,
+                    "startColumn": 4,
+                    "startOffset": 96519,
+                    "endColumn": 100,
+                    "endOffset": 96615
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1286,
+                    "startColumn": 4,
+                    "startOffset": 96620,
+                    "endColumn": 104,
+                    "endOffset": 96720
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1287,
+                    "startColumn": 4,
+                    "startOffset": 96725,
+                    "endColumn": 99,
+                    "endOffset": 96820
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1288,
+                    "startColumn": 4,
+                    "startOffset": 96825,
+                    "endColumn": 117,
+                    "endOffset": 96938
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1289,
+                    "startColumn": 4,
+                    "startOffset": 96943,
+                    "endColumn": 90,
+                    "endOffset": 97029
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1290,
+                    "startColumn": 4,
+                    "startOffset": 97034,
+                    "endColumn": 122,
+                    "endOffset": 97152
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1291,
+                    "startColumn": 4,
+                    "startOffset": 97157,
+                    "endColumn": 99,
+                    "endOffset": 97252
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1292,
+                    "startColumn": 4,
+                    "startOffset": 97257,
+                    "endColumn": 103,
+                    "endOffset": 97356
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1293,
+                    "startColumn": 4,
+                    "startOffset": 97361,
+                    "endColumn": 95,
+                    "endOffset": 97452
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1294,
+                    "startColumn": 4,
+                    "startOffset": 97457,
+                    "endColumn": 87,
+                    "endOffset": 97540
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1295,
+                    "startColumn": 4,
+                    "startOffset": 97545,
+                    "endColumn": 105,
+                    "endOffset": 97646
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1296,
+                    "startColumn": 4,
+                    "startOffset": 97651,
+                    "endColumn": 91,
+                    "endOffset": 97738
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1297,
+                    "startColumn": 4,
+                    "startOffset": 97743,
+                    "endColumn": 91,
+                    "endOffset": 97830
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1298,
+                    "startColumn": 4,
+                    "startOffset": 97835,
+                    "endColumn": 113,
+                    "endOffset": 97944
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1299,
+                    "startColumn": 4,
+                    "startOffset": 97949,
+                    "endColumn": 89,
+                    "endOffset": 98034
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1300,
+                    "startColumn": 4,
+                    "startOffset": 98039,
+                    "endColumn": 83,
+                    "endOffset": 98118
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1301,
+                    "startColumn": 4,
+                    "startOffset": 98123,
+                    "endColumn": 53,
+                    "endOffset": 98172
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1302,
+                    "startColumn": 4,
+                    "startOffset": 98177,
+                    "endColumn": 121,
+                    "endOffset": 98294
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1303,
+                    "startColumn": 4,
+                    "startOffset": 98299,
+                    "endColumn": 83,
+                    "endOffset": 98378
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1304,
+                    "startColumn": 4,
+                    "startOffset": 98383,
+                    "endColumn": 119,
+                    "endOffset": 98498
+                },
+                "from": {
+                    "file": "D:\\Android_Project\\BluetoothLab04BLENormal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            }
+        ]
+    }
+]
