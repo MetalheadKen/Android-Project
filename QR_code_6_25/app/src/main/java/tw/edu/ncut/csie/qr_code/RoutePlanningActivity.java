@@ -135,7 +135,8 @@ public class RoutePlanningActivity extends Activity implements View.OnClickListe
         new Thread() {
             public void run() {
                 //String ipAddr = "192.168.200.176";
-                String ipAddr = "192.168.43.172";
+                //String ipAddr = "192.168.43.172";
+                String ipAddr = "192.168.200.105";
                 int port = 8998;
 
                 try {
